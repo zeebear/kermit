@@ -1,0 +1,12 @@
+body  {
+  margin-top: 60px;
+}
+
+.jumbotron  {
+  background-color: #ecffb3;
+}
+
+#title  {
+  font-family: 'Rye', cursive, serif;
+  font-size: 400% 
+}
