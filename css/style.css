@@ -1,12 +1,40 @@
-body  {
-  margin-top: 60px;
-}
-
-.jumbotron  {
+#green {
+  margin-top: 50px;
   background-color: #ecffb3;
 }
 
-#title  {
+h1  {
   font-family: 'Rye', cursive, serif;
-  font-size: 400% 
+  font-size: 400%;
+}
+
+h2 {
+  font-family: 'Milonga', cursive, serif;
+}
+
+#white {
+  background-color: #FFF;
+  padding: 1%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+li {
+  padding: 5px;
+}
+
+a:link {
+  color: #009933;
+}
+
+a:visited {
+  color: #669900;
+}
+
+a:hover {
+  color: #33cc33;
+}
+
+blockquote {
+  border-color: #009933;
 }
