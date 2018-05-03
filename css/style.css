@@ -1,3 +1,9 @@
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+/* as found here: https://webdesign.tutsplus.com/articles/quick-tip-dont-forget-the-viewport-meta-tag--webdesign-5972 */
+
 #green {
   margin: 3% 1%;
   background-color: #ecffb3;
